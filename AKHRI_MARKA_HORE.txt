@@ -1,0 +1,20 @@
+SABEEL AL-HARAMAIN - NOOCA AF-SOOMAALIGA
+
+Bogagga:
+- index.html = Bogga Hore
+- services.html = Adeegyada
+- about.html = Nagu Saabsan
+- contact.html = Nala Soo Xiriir
+- appointment.html = Ballan Qabso
+
+Xiriirka:
+WhatsApp: +917981977002
+Iimayl: aqyaar72@gmail.com
+
+Astaanta aad soo dirtay waxaa lagu daray images/logo.png.
+
+WhatsApp-ka geeska hoose waa cagaar, wuu bood-boodaa, marka la taabtanana wuxuu furayaa WhatsApp.
+
+Foomamka ballanta iyo xiriirka waa muuqaal shaqeynaya oo frontend ah; tallaabada xigta waxaa lagu xiriirin karaa Supabase si xogta dhab ahaan loo kaydiyo.
+
+Sawirrada Makkah/Madiinah iyo qaybta culimada waxay isticmaalaan sawirro internet ah oo ku xiran CSS. Haddii aad haysato sawirradaada gaarka ah, geli images/ oo waxaan ku beddeli karnaa.

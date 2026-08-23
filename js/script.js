@@ -1,0 +1,1 @@
+supabaseClient.from("services").select("*").then(console.log)

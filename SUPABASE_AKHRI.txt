@@ -1,0 +1,1 @@
+SABEEL AL-HARAMAIN: Supabase waa lagu xiray appointment.html, admin-login.html iyo admin-dashboard.html. Publishable key oo keliya ayaa frontend-ka ku jira; service_role/secret key lama gelin.
